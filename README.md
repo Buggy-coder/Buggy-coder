@@ -26,5 +26,5 @@
 
 
 
-
+![Snake animation](https://raw.githubusercontent.com/B1tw1z/B1tw1z/output/github-contribution-grid-snake-dark.svg)
 
