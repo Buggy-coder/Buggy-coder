@@ -27,4 +27,4 @@
 
 
 
-![Snake animation](https://raw.githubusercontent.com/Buggy-coder/Buggy-coder/output/github-contribution-grid-snake-dark.svg)
+
